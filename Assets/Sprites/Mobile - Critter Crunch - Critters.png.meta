@@ -1,0 +1,4258 @@
+fileFormatVersion: 2
+guid: cd08caf5042e70b4983168a446b364df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3337503143977359360
+    second: Mobile - Critter Crunch - Critters_0
+  - first:
+      213: -3689084813905949562
+    second: Mobile - Critter Crunch - Critters_1
+  - first:
+      213: -217777395571494250
+    second: Mobile - Critter Crunch - Critters_2
+  - first:
+      213: -9102910361654601160
+    second: Mobile - Critter Crunch - Critters_3
+  - first:
+      213: 7929067370314736383
+    second: Mobile - Critter Crunch - Critters_4
+  - first:
+      213: -2354558227842116332
+    second: Mobile - Critter Crunch - Critters_5
+  - first:
+      213: 1279168221950740175
+    second: Mobile - Critter Crunch - Critters_6
+  - first:
+      213: -494877332211805485
+    second: Mobile - Critter Crunch - Critters_7
+  - first:
+      213: -5516661761206605341
+    second: Mobile - Critter Crunch - Critters_8
+  - first:
+      213: 2349169813673237588
+    second: Mobile - Critter Crunch - Critters_9
+  - first:
+      213: 6885413058990153182
+    second: Mobile - Critter Crunch - Critters_10
+  - first:
+      213: -5253495293974724948
+    second: Mobile - Critter Crunch - Critters_11
+  - first:
+      213: 6780186646210186072
+    second: Mobile - Critter Crunch - Critters_12
+  - first:
+      213: -5014993369918569092
+    second: Mobile - Critter Crunch - Critters_13
+  - first:
+      213: -6343874914999780529
+    second: Mobile - Critter Crunch - Critters_14
+  - first:
+      213: -4285696716719966000
+    second: Mobile - Critter Crunch - Critters_15
+  - first:
+      213: 7669750323448708979
+    second: Mobile - Critter Crunch - Critters_16
+  - first:
+      213: -2531929151754380506
+    second: Mobile - Critter Crunch - Critters_17
+  - first:
+      213: -2733530391838077080
+    second: Mobile - Critter Crunch - Critters_18
+  - first:
+      213: 2671965622176534918
+    second: Mobile - Critter Crunch - Critters_19
+  - first:
+      213: 7229150153719502898
+    second: Mobile - Critter Crunch - Critters_20
+  - first:
+      213: 5071547726233642773
+    second: Mobile - Critter Crunch - Critters_21
+  - first:
+      213: 3089417941810104071
+    second: Mobile - Critter Crunch - Critters_22
+  - first:
+      213: -15899268348489576
+    second: Mobile - Critter Crunch - Critters_23
+  - first:
+      213: 1216991483837299656
+    second: Mobile - Critter Crunch - Critters_24
+  - first:
+      213: -5062244857687698603
+    second: Mobile - Critter Crunch - Critters_25
+  - first:
+      213: -7634100465942517851
+    second: Mobile - Critter Crunch - Critters_26
+  - first:
+      213: 6390737050431631298
+    second: Mobile - Critter Crunch - Critters_27
+  - first:
+      213: -3258336323159721310
+    second: Mobile - Critter Crunch - Critters_28
+  - first:
+      213: 3520474844288669845
+    second: Mobile - Critter Crunch - Critters_29
+  - first:
+      213: -3274175819922741646
+    second: Mobile - Critter Crunch - Critters_30
+  - first:
+      213: 3002168780360050979
+    second: Mobile - Critter Crunch - Critters_31
+  - first:
+      213: -7381340319568310574
+    second: Mobile - Critter Crunch - Critters_32
+  - first:
+      213: 626859433023424550
+    second: Mobile - Critter Crunch - Critters_33
+  - first:
+      213: -3095004574096067569
+    second: Mobile - Critter Crunch - Critters_34
+  - first:
+      213: 6022724385923186075
+    second: Mobile - Critter Crunch - Critters_35
+  - first:
+      213: -2759636631676166239
+    second: Mobile - Critter Crunch - Critters_36
+  - first:
+      213: 7796037748049842914
+    second: Mobile - Critter Crunch - Critters_37
+  - first:
+      213: 4264470862346186902
+    second: Mobile - Critter Crunch - Critters_38
+  - first:
+      213: -5169426011547945134
+    second: Mobile - Critter Crunch - Critters_39
+  - first:
+      213: -4591104861961378246
+    second: Mobile - Critter Crunch - Critters_40
+  - first:
+      213: -3215933251926934828
+    second: Mobile - Critter Crunch - Critters_41
+  - first:
+      213: 6710667921843216346
+    second: Mobile - Critter Crunch - Critters_42
+  - first:
+      213: -7391905908317930490
+    second: Mobile - Critter Crunch - Critters_43
+  - first:
+      213: 4663881923856599395
+    second: Mobile - Critter Crunch - Critters_44
+  - first:
+      213: 7377271894626734307
+    second: Mobile - Critter Crunch - Critters_45
+  - first:
+      213: -4989034553283485486
+    second: Mobile - Critter Crunch - Critters_46
+  - first:
+      213: -5896090284364402844
+    second: Mobile - Critter Crunch - Critters_47
+  - first:
+      213: 5634584081335742162
+    second: Mobile - Critter Crunch - Critters_48
+  - first:
+      213: -2736158443241510431
+    second: Mobile - Critter Crunch - Critters_49
+  - first:
+      213: -1922164545275583758
+    second: Mobile - Critter Crunch - Critters_50
+  - first:
+      213: 3699713597847200484
+    second: Mobile - Critter Crunch - Critters_51
+  - first:
+      213: -5821243612979987283
+    second: Mobile - Critter Crunch - Critters_52
+  - first:
+      213: 7270645509785088478
+    second: Mobile - Critter Crunch - Critters_53
+  - first:
+      213: 4212634172719395178
+    second: Mobile - Critter Crunch - Critters_54
+  - first:
+      213: 7160011517559654825
+    second: Mobile - Critter Crunch - Critters_55
+  - first:
+      213: -6709977924189118150
+    second: Mobile - Critter Crunch - Critters_56
+  - first:
+      213: 2506160790876841784
+    second: Mobile - Critter Crunch - Critters_57
+  - first:
+      213: 2528440255501380561
+    second: Mobile - Critter Crunch - Critters_58
+  - first:
+      213: 7239343897358804953
+    second: Mobile - Critter Crunch - Critters_59
+  - first:
+      213: 7642627503781472698
+    second: Mobile - Critter Crunch - Critters_60
+  - first:
+      213: -9070506639626366271
+    second: Mobile - Critter Crunch - Critters_61
+  - first:
+      213: 3045509423535049149
+    second: Mobile - Critter Crunch - Critters_62
+  - first:
+      213: 735501117361529285
+    second: Mobile - Critter Crunch - Critters_63
+  - first:
+      213: -2619036968626808180
+    second: Mobile - Critter Crunch - Critters_64
+  - first:
+      213: -5448877454857906413
+    second: Mobile - Critter Crunch - Critters_65
+  - first:
+      213: 3923376065933070949
+    second: Mobile - Critter Crunch - Critters_66
+  - first:
+      213: -5596297331383494242
+    second: Mobile - Critter Crunch - Critters_67
+  - first:
+      213: 3006368582456224956
+    second: Mobile - Critter Crunch - Critters_68
+  - first:
+      213: 1449826670962745090
+    second: Mobile - Critter Crunch - Critters_69
+  - first:
+      213: 307695353692138551
+    second: Mobile - Critter Crunch - Critters_70
+  - first:
+      213: -8082558137108110302
+    second: Mobile - Critter Crunch - Critters_71
+  - first:
+      213: -5429160592367930818
+    second: Mobile - Critter Crunch - Critters_72
+  - first:
+      213: -1474091561999122717
+    second: Mobile - Critter Crunch - Critters_73
+  - first:
+      213: -2441646415620292780
+    second: Mobile - Critter Crunch - Critters_74
+  - first:
+      213: -8982833237490340551
+    second: Mobile - Critter Crunch - Critters_75
+  - first:
+      213: -7506353687083541015
+    second: Mobile - Critter Crunch - Critters_76
+  - first:
+      213: 1582102777990277178
+    second: Mobile - Critter Crunch - Critters_77
+  - first:
+      213: 8008598118686810595
+    second: Mobile - Critter Crunch - Critters_78
+  - first:
+      213: 8527808974479317193
+    second: Mobile - Critter Crunch - Critters_79
+  - first:
+      213: -7036210827791231915
+    second: Mobile - Critter Crunch - Critters_80
+  - first:
+      213: -4992719466389674683
+    second: Mobile - Critter Crunch - Critters_81
+  - first:
+      213: -5182822904792843901
+    second: Mobile - Critter Crunch - Critters_82
+  - first:
+      213: 8488738913114829276
+    second: Mobile - Critter Crunch - Critters_83
+  - first:
+      213: -6196388841465122413
+    second: Mobile - Critter Crunch - Critters_84
+  - first:
+      213: -6536012313112636409
+    second: Mobile - Critter Crunch - Critters_85
+  - first:
+      213: -1111138476925462319
+    second: Mobile - Critter Crunch - Critters_86
+  - first:
+      213: -6963233476205461687
+    second: Mobile - Critter Crunch - Critters_87
+  - first:
+      213: -290741830223610083
+    second: Mobile - Critter Crunch - Critters_88
+  - first:
+      213: -7363407304982334748
+    second: Mobile - Critter Crunch - Critters_89
+  - first:
+      213: -3257761355903950425
+    second: Mobile - Critter Crunch - Critters_90
+  - first:
+      213: -1060195543212665472
+    second: Mobile - Critter Crunch - Critters_91
+  - first:
+      213: 2639283387166575104
+    second: Mobile - Critter Crunch - Critters_92
+  - first:
+      213: 2163474739243352392
+    second: Mobile - Critter Crunch - Critters_93
+  - first:
+      213: 6564839756974904027
+    second: Mobile - Critter Crunch - Critters_94
+  - first:
+      213: 3885093101858705889
+    second: Mobile - Critter Crunch - Critters_95
+  - first:
+      213: -5565647458697771677
+    second: Mobile - Critter Crunch - Critters_96
+  - first:
+      213: 1521489601141791905
+    second: Mobile - Critter Crunch - Critters_97
+  - first:
+      213: 4141119966671348053
+    second: Mobile - Critter Crunch - Critters_98
+  - first:
+      213: -6123643945846031633
+    second: Mobile - Critter Crunch - Critters_99
+  - first:
+      213: 8364009620456059473
+    second: Mobile - Critter Crunch - Critters_100
+  - first:
+      213: 3606276115175864559
+    second: Mobile - Critter Crunch - Critters_101
+  - first:
+      213: -4631687871124555995
+    second: Mobile - Critter Crunch - Critters_102
+  - first:
+      213: 1130198366355715913
+    second: Mobile - Critter Crunch - Critters_103
+  - first:
+      213: -2424473783916725091
+    second: Mobile - Critter Crunch - Critters_104
+  - first:
+      213: -3911650795775416440
+    second: Mobile - Critter Crunch - Critters_105
+  - first:
+      213: 1496346434433523947
+    second: Mobile - Critter Crunch - Critters_106
+  - first:
+      213: -3335573990305686680
+    second: Mobile - Critter Crunch - Critters_107
+  - first:
+      213: 6638837398284471509
+    second: Mobile - Critter Crunch - Critters_108
+  - first:
+      213: 7617628541291909317
+    second: Mobile - Critter Crunch - Critters_109
+  - first:
+      213: 8927788653454288964
+    second: Mobile - Critter Crunch - Critters_110
+  - first:
+      213: -1663800727826341182
+    second: Mobile - Critter Crunch - Critters_111
+  - first:
+      213: -4755921019929827395
+    second: Mobile - Critter Crunch - Critters_112
+  - first:
+      213: -2037514708238490015
+    second: Mobile - Critter Crunch - Critters_113
+  - first:
+      213: -1910155684269245601
+    second: Mobile - Critter Crunch - Critters_114
+  - first:
+      213: -4917733157967548665
+    second: Mobile - Critter Crunch - Critters_115
+  - first:
+      213: 7703071441557376934
+    second: Mobile - Critter Crunch - Critters_116
+  - first:
+      213: 8432561345458089078
+    second: Mobile - Critter Crunch - Critters_117
+  - first:
+      213: -3491740662068413347
+    second: Mobile - Critter Crunch - Critters_118
+  - first:
+      213: -7821951361897051278
+    second: Mobile - Critter Crunch - Critters_119
+  - first:
+      213: -8688747504266546125
+    second: Mobile - Critter Crunch - Critters_120
+  - first:
+      213: 321274483524888644
+    second: Mobile - Critter Crunch - Critters_121
+  - first:
+      213: -6954069001823394570
+    second: Mobile - Critter Crunch - Critters_122
+  - first:
+      213: 7677978328730043283
+    second: Mobile - Critter Crunch - Critters_123
+  - first:
+      213: -324874721372018254
+    second: Mobile - Critter Crunch - Critters_124
+  - first:
+      213: 6374655247285674169
+    second: Mobile - Critter Crunch - Critters_125
+  - first:
+      213: -9116206906255104963
+    second: Mobile - Critter Crunch - Critters_126
+  - first:
+      213: -3785527383477159078
+    second: Mobile - Critter Crunch - Critters_127
+  - first:
+      213: 2598467016626466954
+    second: Mobile - Critter Crunch - Critters_128
+  - first:
+      213: 238813183558633301
+    second: Mobile - Critter Crunch - Critters_129
+  - first:
+      213: 3531153207231213568
+    second: Mobile - Critter Crunch - Critters_130
+  - first:
+      213: -6665325240666664771
+    second: Mobile - Critter Crunch - Critters_131
+  - first:
+      213: 882723990818686084
+    second: Mobile - Critter Crunch - Critters_132
+  - first:
+      213: -1888339654423292064
+    second: Mobile - Critter Crunch - Critters_133
+  - first:
+      213: 1432155663893961616
+    second: Mobile - Critter Crunch - Critters_134
+  - first:
+      213: 8407459419896634309
+    second: Mobile - Critter Crunch - Critters_135
+  - first:
+      213: 7040817728264172687
+    second: Mobile - Critter Crunch - Critters_136
+  - first:
+      213: -817282303845387745
+    second: Mobile - Critter Crunch - Critters_137
+  - first:
+      213: 2608634610599636369
+    second: Mobile - Critter Crunch - Critters_138
+  - first:
+      213: 5459913589065751468
+    second: Mobile - Critter Crunch - Critters_139
+  - first:
+      213: -8131529745852029512
+    second: Mobile - Critter Crunch - Critters_140
+  - first:
+      213: -867172044801466126
+    second: Mobile - Critter Crunch - Critters_141
+  - first:
+      213: 4720749719303975194
+    second: Mobile - Critter Crunch - Critters_142
+  - first:
+      213: 6216072877651053813
+    second: Mobile - Critter Crunch - Critters_143
+  - first:
+      213: -9163818147671991671
+    second: Mobile - Critter Crunch - Critters_144
+  - first:
+      213: 2162881590629436826
+    second: Mobile - Critter Crunch - Critters_145
+  - first:
+      213: -8923175749996698519
+    second: Mobile - Critter Crunch - Critters_146
+  - first:
+      213: -2521994627218289410
+    second: Mobile - Critter Crunch - Critters_147
+  - first:
+      213: 304749495137698970
+    second: Mobile - Critter Crunch - Critters_148
+  - first:
+      213: -4861170610602287360
+    second: Mobile - Critter Crunch - Critters_149
+  - first:
+      213: 8024813280317758009
+    second: Mobile - Critter Crunch - Critters_150
+  - first:
+      213: -6566858315086341716
+    second: Mobile - Critter Crunch - Critters_151
+  - first:
+      213: -2128628953559306453
+    second: Mobile - Critter Crunch - Critters_152
+  - first:
+      213: 3601482285431663107
+    second: Mobile - Critter Crunch - Critters_153
+  - first:
+      213: 7113938796415965917
+    second: Mobile - Critter Crunch - Critters_154
+  - first:
+      213: 5519069458000061169
+    second: Mobile - Critter Crunch - Critters_155
+  - first:
+      213: 7990535785790604600
+    second: Mobile - Critter Crunch - Critters_156
+  - first:
+      213: -5171837979888650256
+    second: Mobile - Critter Crunch - Critters_157
+  - first:
+      213: -2202794479037260926
+    second: Mobile - Critter Crunch - Critters_158
+  - first:
+      213: 4880309849552054609
+    second: Mobile - Critter Crunch - Critters_159
+  - first:
+      213: 5487015685039839718
+    second: Mobile - Critter Crunch - Critters_160
+  - first:
+      213: -2089427380021371122
+    second: Mobile - Critter Crunch - Critters_161
+  - first:
+      213: 4680446301439110293
+    second: Mobile - Critter Crunch - Critters_162
+  - first:
+      213: -3678781729087723146
+    second: Mobile - Critter Crunch - Critters_163
+  - first:
+      213: 8053224153369955306
+    second: Mobile - Critter Crunch - Critters_164
+  - first:
+      213: 3641261107691572343
+    second: Mobile - Critter Crunch - Critters_165
+  - first:
+      213: 9007658439096569591
+    second: Mobile - Critter Crunch - Critters_166
+  - first:
+      213: 6743963263724647763
+    second: Mobile - Critter Crunch - Critters_167
+  - first:
+      213: -6769485014678260453
+    second: Mobile - Critter Crunch - Critters_168
+  - first:
+      213: -1534848838277846505
+    second: Mobile - Critter Crunch - Critters_169
+  - first:
+      213: -8354249016297606353
+    second: Mobile - Critter Crunch - Critters_170
+  - first:
+      213: -2446955709131992220
+    second: Mobile - Critter Crunch - Critters_171
+  - first:
+      213: 7565016909644311289
+    second: Mobile - Critter Crunch - Critters_172
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 940
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008ea7ac29ecea1d0800000000000000
+      internalID: -3337503143977359360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 940
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c09d848ecbdccc0800000000000000
+      internalID: -3689084813905949562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 940
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692f9d0dc9c4afcf0800000000000000
+      internalID: -217777395571494250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 940
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ada5f5147fba180800000000000000
+      internalID: -9102910361654601160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_4
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 940
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff220c763c4b90e60800000000000000
+      internalID: 7929067370314736383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_5
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 940
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4155f7a44cde25fd0800000000000000
+      internalID: -2354558227842116332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 940
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6875578b480c110800000000000000
+      internalID: 1279168221950740175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_7
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 940
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d25f1630b7d129f0800000000000000
+      internalID: -494877332211805485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 940
+        width: 58
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9ac415b51e073b0800000000000000
+      internalID: -5516661761206605341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_9
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 940
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c5015cf7de99020800000000000000
+      internalID: 2349169813673237588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_10
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 940
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd91f852b6ed8f50800000000000000
+      internalID: 6885413058990153182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_11
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 981
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae33754dd5d717b0800000000000000
+      internalID: -5253495293974724948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_12
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 981
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b843ee4df081e50800000000000000
+      internalID: 6780186646210186072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_13
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 981
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c758013c91a276ab0800000000000000
+      internalID: -5014993369918569092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_14
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 981
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b3de7406706f7a0800000000000000
+      internalID: -6343874914999780529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_15
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 981
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d839d0fa852684c0800000000000000
+      internalID: -4285696716719966000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_16
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 981
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ff819784d607a60800000000000000
+      internalID: 7669750323448708979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_17
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 949
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b5939e9d7ccdcd0800000000000000
+      internalID: -2531929151754380506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_18
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 949
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fc1cb679c801ad0800000000000000
+      internalID: -2733530391838077080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_19
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 949
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68153e1a39ab41520800000000000000
+      internalID: 2671965622176534918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_20
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 949
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238596c53c9135460800000000000000
+      internalID: 7229150153719502898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_21
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 950
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517a89b69c1c16640800000000000000
+      internalID: 5071547726233642773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_22
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 943
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7074f48ef31dfda20800000000000000
+      internalID: 3089417941810104071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 872
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89056ed13b387cff0800000000000000
+      internalID: -15899268348489576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_24
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 872
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb3cc08e4f93e010800000000000000
+      internalID: 1216991483837299656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 872
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5531a737f1b4fb9b0800000000000000
+      internalID: -5062244857687698603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_26
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 872
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a72adbc21a3e0690800000000000000
+      internalID: -7634100465942517851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_27
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 872
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfa7efdc7570b850800000000000000
+      internalID: 6390737050431631298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_28
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 872
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aaff43a06018c2d0800000000000000
+      internalID: -3258336323159721310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 872
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5985686f73d3bd030800000000000000
+      internalID: 3520474844288669845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_30
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 872
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276e459607acf82d0800000000000000
+      internalID: -3274175819922741646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_31
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 872
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329e02d7998d9a920800000000000000
+      internalID: 3002168780360050979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_32
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 872
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2deccdd5616309990800000000000000
+      internalID: -7381340319568310574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 872
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 628c675455d03b800800000000000000
+      internalID: 626859433023424550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_34
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 866
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f047bc6ecb55c05d0800000000000000
+      internalID: -3095004574096067569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_35
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 811
+        width: 55
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9db8035be3059350800000000000000
+      internalID: 6022724385923186075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_36
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 866
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1af59cbca1dc3b9d0800000000000000
+      internalID: -2759636631676166239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_37
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 804
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e21c04d607113c60800000000000000
+      internalID: 7796037748049842914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_38
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 804
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 690f529b7a17e2b30800000000000000
+      internalID: 4264470862346186902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_39
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 804
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25735096e628248b0800000000000000
+      internalID: -5169426011547945134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_40
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 804
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a362938e37e1940c0800000000000000
+      internalID: -4591104861961378246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 804
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da37810fb5be53d0800000000000000
+      internalID: -3215933251926934828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_42
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 805
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd2179be4112d50800000000000000
+      internalID: 6710667921843216346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_43
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 805
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c39998dbcaa6990800000000000000
+      internalID: -7391905908317930490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_44
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 804
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36986d146ef69b040800000000000000
+      internalID: 4663881923856599395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_45
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 804
+        width: 57
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e013b2a3b5516660800000000000000
+      internalID: 7377271894626734307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_46
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 804
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0636fb18363cab0800000000000000
+      internalID: -4989034553283485486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_47
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 804
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fe3dc0021ec2ea0800000000000000
+      internalID: -5896090284364402844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_48
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 804
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de66116e50123e40800000000000000
+      internalID: 5634584081335742162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_49
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 811
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e967658466370ad0800000000000000
+      internalID: -2736158443241510431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 766
+        width: 380
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2aff6b7891355e0800000000000000
+      internalID: -1922164545275583758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_51
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 773
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e26d525ae5085330800000000000000
+      internalID: 3699713597847200484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_52
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 773
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacf059b6c9c63fa0800000000000000
+      internalID: -5821243612979987283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_53
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 773
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed17782d19586e460800000000000000
+      internalID: 7270645509785088478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_54
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 749
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a617c99e578467a30800000000000000
+      internalID: 4212634172719395178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 736
+        width: 342
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a949d33a887d5360800000000000000
+      internalID: 7160011517559654825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_56
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 738
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31aef101ae51e2a0800000000000000
+      internalID: -6709977924189118150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_57
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 742
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837e93a06fba7c220800000000000000
+      internalID: 2506160790876841784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_58
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 742
+        width: 48
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db25f02403d61320800000000000000
+      internalID: 2528440255501380561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_59
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 694
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7a6f04be0577460800000000000000
+      internalID: 7239343897358804953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 697
+        width: 308
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab96689e831101a60800000000000000
+      internalID: 7642627503781472698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_61
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 693
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c29f34d4461f1280800000000000000
+      internalID: -9070506639626366271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_62
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 695
+        width: 88
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db949e55fa2d34a20800000000000000
+      internalID: 3045509423535049149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_63
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 720
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1ac309e56053a00800000000000000
+      internalID: 735501117361529285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_64
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 711
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a1267d0cf47abd0800000000000000
+      internalID: -2619036968626808180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_65
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 711
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3175f8ef2d2b164b0800000000000000
+      internalID: -5448877454857906413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_66
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 711
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562d53abeb1a27630800000000000000
+      internalID: 3923376065933070949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_67
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 711
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e999b614a35f552b0800000000000000
+      internalID: -5596297331383494242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_68
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 654
+        width: 352
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbca23d1c44c8b920800000000000000
+      internalID: 3006368582456224956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_69
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 654
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f1f9cfca1de1410800000000000000
+      internalID: 1449826670962745090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_70
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 680
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73cabdf3b47254400800000000000000
+      internalID: 307695353692138551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_71
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 680
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246a31923cf4df80800000000000000
+      internalID: -8082558137108110302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_72
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 680
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e323c57c43fb7a4b0800000000000000
+      internalID: -5429160592367930818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_73
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 608
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee34a0d889fa8be0800000000000000
+      internalID: -1474091561999122717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_74
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 604
+        width: 43
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fb8d975878d1ed0800000000000000
+      internalID: -2441646415620292780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_75
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 608
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93de0da73c0965380800000000000000
+      internalID: -8982833237490340551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_76
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 608
+        width: 46
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed11fa871314d790800000000000000
+      internalID: -7506353687083541015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_77
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 608
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38e4402812c4f510800000000000000
+      internalID: 1582102777990277178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_78
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 608
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1603dbe81442f60800000000000000
+      internalID: 8008598118686810595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_79
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 608
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c85a3c741dd85670800000000000000
+      internalID: 8527808974479317193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_80
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 609
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5541fb4188b5a5e90800000000000000
+      internalID: -7036210827791231915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_81
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 608
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5456aae091c46bab0800000000000000
+      internalID: -4992719466389674683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_82
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 609
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3897012270ae218b0800000000000000
+      internalID: -5182822904792843901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_83
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 610
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1be33f01f0ec570800000000000000
+      internalID: 8488738913114829276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_84
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 609
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391f646bd21020aa0800000000000000
+      internalID: -6196388841465122413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_85
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 608
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70497553e6b6b45a0800000000000000
+      internalID: -6536012313112636409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_86
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 561
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8d69a31717490f0800000000000000
+      internalID: -1111138476925462319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_87
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 561
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f3aa2db00ad5f90800000000000000
+      internalID: -6963233476205461687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_88
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 558
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fbc2888d317fbf0800000000000000
+      internalID: -290741830223610083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_89
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 564
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f202b11cefc990800000000000000
+      internalID: -7363407304982334748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_90
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 563
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1a952ae4b1ac2d0800000000000000
+      internalID: -3257761355903950425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_91
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 563
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0855b5645cd6941f0800000000000000
+      internalID: -1060195543212665472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_92
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 563
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a47a1d14e90a420800000000000000
+      internalID: 2639283387166575104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 563
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841812110d4360e10800000000000000
+      internalID: 2163474739243352392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_94
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 563
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2d9d91afefa1b50800000000000000
+      internalID: 6564839756974904027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_95
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 563
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1db9f879f9ae530800000000000000
+      internalID: 3885093101858705889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_96
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 562
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3658347df19d2c2b0800000000000000
+      internalID: -5565647458697771677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_97
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 563
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acd1852bba6d1510800000000000000
+      internalID: 1521489601141791905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_98
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 564
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55129b94ba6387930800000000000000
+      internalID: 4141119966671348053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_99
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 563
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea30e49642740ba0800000000000000
+      internalID: -6123643945846031633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_100
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 490
+        width: 344
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152bb357f6ee21470800000000000000
+      internalID: 8364009620456059473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_101
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 455
+        width: 264
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8780715011c0230800000000000000
+      internalID: 3606276115175864559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_102
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 454
+        width: 114
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527b223cb60f8bfb0800000000000000
+      internalID: -4631687871124555995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_103
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 424
+        width: 342
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947fb581d654faf00800000000000000
+      internalID: 1130198366355715913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_104
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 425
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c756e50f98a5ed0800000000000000
+      internalID: -2424473783916725091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_105
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 372
+        width: 308
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887ae68735607b9c0800000000000000
+      internalID: -3911650795775416440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_106
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 368
+        width: 130
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be02555772714c410800000000000000
+      internalID: 1496346434433523947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_107
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 329
+        width: 219
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b1cc1e029a5b1d0800000000000000
+      internalID: -3335573990305686680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_108
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 329
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc035e8073e12c50800000000000000
+      internalID: 6638837398284471509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_109
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 329
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d4926cc047b960800000000000000
+      internalID: 7617628541291909317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_110
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 331
+        width: 44
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e7e69a70e5eb70800000000000000
+      internalID: 8927788653454288964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_111
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 329
+        width: 44
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2efd0ad0ef8e8e0800000000000000
+      internalID: -1663800727826341182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_112
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 288
+        width: 645
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7e443c7039ffdb0800000000000000
+      internalID: -4755921019929827395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_113
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 244
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 166afc60b2b49b3e0800000000000000
+      internalID: -2037514708238490015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_114
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 245
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b307d8683cd75e0800000000000000
+      internalID: -1910155684269245601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_115
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 244
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f2f238fb3b0cbb0800000000000000
+      internalID: -4917733157967548665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 243
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6afcb79d9aec6ea60800000000000000
+      internalID: 7703071441557376934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_117
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 243
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c28b6bdd9760570800000000000000
+      internalID: 8432561345458089078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_118
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 243
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cff9d2e58da8fc0800000000000000
+      internalID: -3491740662068413347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_119
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 243
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b4eb7cda8d27390800000000000000
+      internalID: -7821951361897051278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_120
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 241
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33471290e2e5b6780800000000000000
+      internalID: -8688747504266546125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_121
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 242
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448e5e9c075657400800000000000000
+      internalID: 321274483524888644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_122
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 243
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4e2ca461f2e7f90800000000000000
+      internalID: -6954069001823394570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_123
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 242
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3930a1d3c98ad8a60800000000000000
+      internalID: 7677978328730043283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_124
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 242
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9ed148920dd7bf0800000000000000
+      internalID: -324874721372018254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_125
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 227
+        width: 202
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0ea0c4c23577850800000000000000
+      internalID: 6374655247285674169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_126
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 68
+        width: 39
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a3b55e1abc7180800000000000000
+      internalID: -9116206906255104963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_127
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 109
+        width: 6
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b745cb6ea177bc0800000000000000
+      internalID: -3785527383477159078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_128
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 260
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80f69efbfb9f0420800000000000000
+      internalID: 2598467016626466954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_129
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 260
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55741bd335f605300800000000000000
+      internalID: 238813183558633301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_130
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 235
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0007f74122d210130800000000000000
+      internalID: 3531153207231213568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_131
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 234
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db05e9d02020083a0800000000000000
+      internalID: -6665325240666664771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_132
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 192
+        width: 220
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4848673fac0104c00800000000000000
+      internalID: 882723990818686084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_133
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 189
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d0d2d6154bc5e0800000000000000
+      internalID: -1888339654423292064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_134
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 185
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b96790df900e310800000000000000
+      internalID: 1432155663893961616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_135
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 191
+        width: 33
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb537a3ccb4da470800000000000000
+      internalID: 8407459419896634309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_136
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 175
+        width: 46
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8475758b6206b160800000000000000
+      internalID: 7040817728264172687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_137
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 171
+        width: 41
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f123516231e68a4f0800000000000000
+      internalID: -817282303845387745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_138
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 185
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da4917b5bb33420800000000000000
+      internalID: 2608634610599636369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_139
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 124
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab979c3b7285cb40800000000000000
+      internalID: 5459913589065751468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_140
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 188
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a7f167c0072f80800000000000000
+      internalID: -8131529745852029512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_141
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 187
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0a576ae9f27f3f0800000000000000
+      internalID: -867172044801466126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_142
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 189
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1173acabd8738140800000000000000
+      internalID: 4720749719303975194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_143
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 199
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcc45a195de34650800000000000000
+      internalID: 6216072877651053813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_144
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 198
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a9bb952f393d080800000000000000
+      internalID: -9163818147671991671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_145
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 196
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d03b4e859140e10800000000000000
+      internalID: 2162881590629436826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_146
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 196
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9642111bee28a2480800000000000000
+      internalID: -8923175749996698519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_147
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 211
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcc537af33100dd0800000000000000
+      internalID: -2521994627218289410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_148
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 149
+        width: 92
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94892b1d00ba3400800000000000000
+      internalID: 304749495137698970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_149
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 188
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f5b72d517a98cb0800000000000000
+      internalID: -4861170610602287360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_150
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 142
+        width: 164
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a5d22492ddd5f60800000000000000
+      internalID: 8024813280317758009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_151
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 174
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca955f6b725ddd4a0800000000000000
+      internalID: -6566858315086341716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_152
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 175
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f6c74ae379572e0800000000000000
+      internalID: -2128628953559306453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_153
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 160
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30a2400ae090bf130800000000000000
+      internalID: 3601482285431663107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_154
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 158
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda5e32e4a9c9b260800000000000000
+      internalID: 7113938796415965917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_155
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 124
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f22dc64e6ca79c40800000000000000
+      internalID: 5519069458000061169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_156
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 148
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835881526f514ee60800000000000000
+      internalID: 7990535785790604600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_157
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 147
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7fcd442c0f938b0800000000000000
+      internalID: -5171837979888650256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_158
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 147
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28bdacb971a1e61e0800000000000000
+      internalID: -2202794479037260926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_159
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 147
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159e36083f75ab340800000000000000
+      internalID: 4880309849552054609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_160
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 147
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9dbcfa1bbc52c40800000000000000
+      internalID: 5487015685039839718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_161
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 163
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0fd9dd3edcd003e0800000000000000
+      internalID: -2089427380021371122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_162
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 164
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ca193fc1944f040800000000000000
+      internalID: 4680446301439110293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_163
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 162
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796787228752fcc0800000000000000
+      internalID: -3678781729087723146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_164
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 153
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb463e13bcc2cf60800000000000000
+      internalID: 8053224153369955306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_165
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 156
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cc66a6fab588230800000000000000
+      internalID: 3641261107691572343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_166
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 159
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe866030a1a10d70800000000000000
+      internalID: 9007658439096569591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_167
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 156
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35577987bde579d50800000000000000
+      internalID: 6743963263724647763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_168
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 54
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15b5c3de35fd02a0800000000000000
+      internalID: -6769485014678260453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_169
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 55
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a27821d1f13bae0800000000000000
+      internalID: -1534848838277846505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_170
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 55
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23bc6a48cebf0c80800000000000000
+      internalID: -8354249016297606353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_171
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 57
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463d2104fbaaa0ed0800000000000000
+      internalID: -2446955709131992220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Critter Crunch - Critters_172
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 55
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa2c235cc65cf860800000000000000
+      internalID: 7565016909644311289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
